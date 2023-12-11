@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="go_to_browser">Go To Browser</string>
+    <string name="todo">TODO</string>
+    <string name="hola">Hola</string>
+    <string name="welome_to_the_world_of_internet">Welome to the World of Internet</string>
+</resources>
